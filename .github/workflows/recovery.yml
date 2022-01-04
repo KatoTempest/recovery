@@ -15,9 +15,9 @@ on:
 
 env:
   MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  DEVICE: cheeseburger_dumpling
-  DT_LINK: https://github.com/Maitreya29/recovery_device_oneplus_cheeseburger-dumpling
-  DT_PATH: device/oneplus/cheeseburger_dumpling
+  DEVICE: pokerp
+  DT_LINK: https://github.com/KatoTempest/motorola_pokerpatas.git -b orangefox 
+  DT_PATH: device/motorola/pokerp
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
